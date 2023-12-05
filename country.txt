@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------------
+|Country Name           Corrency                | Country Name           Corrency              |
+|-----------------------------------------------------------------------------------------------            
+|--------A-----------                           | --------J-----------                         |
+|1.Afghanistan            Afghani               | 15.Japan                 Yen                 |
+|2.Australia             Australian dollar      | --------M-----------                         |
+|--------B-----------                           | 16.Malaysia              Ringgit             |
+|3.Bangladesh            Taka                   | 17.Mauritania            Ouguiya             | 
+|4.Brazil                Real                   |--------N-----------                          |
+|--------C-----------                           | 18.Nepal                 Nepalese Rupee      |
+|5.Canada                Canadian dollar        | 19.Netherlands           Euro                |
+|6.China                 Chinese Yuan           |--------R-----------                          |
+|--------D-----------                           | 20.Russia                Ruble               |
+|7.Denmark               Danish Krone           |--------S-----------                          |
+|8.Dominican Republic    Dominican Peso         | 21.South Korea           South Korean Won    |
+|--------E-----------                           | 22.Singapore             Singapore dollar    |
+|9.Egypt                 Egyptian pound         | 23.Spain                 Euro                |
+|--------F-----------                           | 24.Switzerland           Swiss Franc         |   
+|10.Finland               Euro                  |                                              |
+|11.France                Euro                  |--------T-----------                          |
+|--------G-----------                           | 25.Taiwan                Taiwan Dollar       |
+|12.Germany               Euro                  |--------U-----------                          |
+|--------I-----------                           | 26.United Arab Emirates  U.A.E. Dirham       |
+|13.Indonesia             Rupiah                | 27.United Kingdom        Pound Sterling      |
+|14.Iran                  Rial                  | 28.United States of America      Dollar      |           
+------------------------------------------------------------------------------------------------
